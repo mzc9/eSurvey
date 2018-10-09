@@ -1,5 +1,6 @@
 Here be the list of things that I need to do and/or figure out.
 
 
-1) Cannot create user via mongoose.js to mongoDB -> it is not updating the database.
+1) Cannot create user via mongoose.js to mongoDB -> it is not updating the database.-- FIXED!  
+
 
